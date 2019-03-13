@@ -17,3 +17,19 @@ https://www.iredmail.org/
  https://modoboa.org/en/
 
 
+Mail Transfer Agents
+
+https://www.exim.org/
+
+http://www.postfix.org/
+
+http://www.qmail.org/
+
+
+Mail Delivery Agents
+
+
+https://www.dovecot.org/
+
+https://www.cyrusimap.org/
+
