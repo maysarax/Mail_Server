@@ -36,3 +36,12 @@ https://www.dovecot.org/
 
 https://www.cyrusimap.org/
 
+
+
+Reference
+
+https://www.linuxbabe.com/mail-server/ubuntu-18-04-iredmail-email-server
+
+https://www.linuxbabe.com/mail-server/email-server-ubuntu-18-04-modoboa
+
+https://www.linuxbabe.com/mail-server/ubuntu-16-04-iredmail-server-installation
